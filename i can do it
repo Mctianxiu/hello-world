@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main(void)
+{
+  printf("hello world");
+  printf("i want to be a programer, i will do my best")
+
+}
